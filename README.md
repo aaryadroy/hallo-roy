@@ -1,2 +1,3 @@
 # hallo-roy
-This is the Git Reposatory
+This is the Git Repository.
+author:Aarya
